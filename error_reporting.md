@@ -30,4 +30,10 @@ Restart the logging agent
 
 sudo service google-fluentd restart
 
+#sample source
+https://github.com/GoogleCloudPlatform/java-docs-samples/tree/master/compute/error-reporting
+
+#google docs
+https://cloud.google.com/error-reporting/docs/quickstart
+
 
