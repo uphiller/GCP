@@ -1,4 +1,4 @@
-Stackdriver sample for Google Compute Engine
+#Stackdriver sample for Google Compute Engine
 
 This sample demonstrates how to use Stackdriver on Google Compute Engine
 
