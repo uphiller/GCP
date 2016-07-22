@@ -10,6 +10,7 @@ SSH into the instance you created
 
 Follow the instructions to Install the Stackdriver Logging Agent
 
+#instructions
 Update packages and install required packages sudo apt-get update && sudo apt-get install git-core openjdk-8-jdk maven
 
 curl -sSO https://dl.google.com/cloudagents/install-logging-agent.sh
