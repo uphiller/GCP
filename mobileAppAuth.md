@@ -1,5 +1,7 @@
 #google firebase를 이용한 모바일 인증
 
+![auth flow](/img/app_auth.jpg)
+
 - google docs
 https://developers.google.com/identity/sign-in/android/start
 
