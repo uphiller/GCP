@@ -1,5 +1,4 @@
-#error_report for Google Compute Engine
-#(google-fluentd이용한 에러수집)
+#google-fluentd이용한 에러수집
 
 This sample demonstrates how to use Stackdriver on Google Compute Engine
 
